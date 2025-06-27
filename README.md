@@ -30,9 +30,15 @@ Também é gerada automaticamente a imagem `.png` com tema personalizado.
 ## 📦 Instalação
 
 ```bash
+# 1. Inicializa o projeto com um nome qualquer
 go mod init treegen
+
+# 2. Instala os pacotes usados pelo seu script
 go get gopkg.in/yaml.v3
 go get golang.org/x/image/...
+
+# 3. Agora sim, execute
+go run main.go -theme=dracula
 ```
 
 ---
