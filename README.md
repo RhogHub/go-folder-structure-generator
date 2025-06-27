@@ -129,5 +129,5 @@ output/
 
 ---
 
-## 📄 2025 – Desenvolvido por Rodrigo Godoi 💚
+## 📄 2025 – Desenvolvido por Rodrigo Godoi 🧙🏼‍♂️
 
