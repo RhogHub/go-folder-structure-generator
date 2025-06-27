@@ -129,6 +129,5 @@ output/
 
 ---
 
-## 📄 Licença
+## 📄 2025 – Desenvolvido por Rodrigo Godoi 💚
 
-MIT © 2025 – Desenvolvido por Rodrigo Godoi 💚
